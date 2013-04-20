@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/eden/!svn/ver/19/trunk/library/eden/getsatisfaction
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eden/!svn/ver/4/trunk/library/eden/getsatisfaction/error.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eden/!svn/ver/19/trunk/library/eden/getsatisfaction/base.php
+END
+reply.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eden/!svn/ver/4/trunk/library/eden/getsatisfaction/reply.php
+END
+tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/13/trunk/library/eden/getsatisfaction/tag.php
+END
+topic.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/13/trunk/library/eden/getsatisfaction/topic.php
+END
+oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/19/trunk/library/eden/getsatisfaction/oauth.php
+END
+product.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eden/!svn/ver/13/trunk/library/eden/getsatisfaction/product.php
+END
+detail.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/4/trunk/library/eden/getsatisfaction/detail.php
+END
+replies.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eden/!svn/ver/13/trunk/library/eden/getsatisfaction/replies.php
+END
+people.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eden/!svn/ver/13/trunk/library/eden/getsatisfaction/people.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/4/trunk/library/eden/getsatisfaction/post.php
+END
+company.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eden/!svn/ver/13/trunk/library/eden/getsatisfaction/company.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/eden/!svn/ver/4/trunk/library/eden/google/analytics
+END
+reporting.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eden/!svn/ver/4/trunk/library/eden/google/analytics/reporting.php
+END
+management.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eden/!svn/ver/4/trunk/library/eden/google/analytics/management.php
+END
+multichannel.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eden/!svn/ver/4/trunk/library/eden/google/analytics/multichannel.php
+END

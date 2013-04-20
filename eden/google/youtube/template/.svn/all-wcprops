@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template
+END
+addcomment.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/addcomment.php
+END
+addfavorites.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/addfavorites.php
+END
+sendmessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/sendmessage.php
+END
+addvideo.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/addvideo.php
+END
+activate.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/activate.php
+END
+addratings.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/addratings.php
+END
+replytocomment.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/replytocomment.php
+END
+subscribe.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/subscribe.php
+END
+updatecontacts.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/updatecontacts.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/form.php
+END
+like.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/like.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/upload.php
+END
+createplaylist.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/createplaylist.php
+END
+clear.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eden/!svn/ver/4/trunk/library/eden/google/youtube/template/clear.php
+END

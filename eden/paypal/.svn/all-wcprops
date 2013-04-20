@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/eden/!svn/ver/4/trunk/library/eden/paypal
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/eden/!svn/ver/4/trunk/library/eden/paypal/error.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eden/!svn/ver/4/trunk/library/eden/paypal/base.php
+END
+direct.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eden/!svn/ver/4/trunk/library/eden/paypal/direct.php
+END
+button.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eden/!svn/ver/4/trunk/library/eden/paypal/button.php
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eden/!svn/ver/4/trunk/library/eden/paypal/cacert.pem
+END
+authorization.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/4/trunk/library/eden/paypal/authorization.php
+END
+billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/eden/!svn/ver/4/trunk/library/eden/paypal/billing.php
+END
+recurring.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/4/trunk/library/eden/paypal/recurring.php
+END
+checkout.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/eden/!svn/ver/4/trunk/library/eden/paypal/checkout.php
+END
+transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/eden/!svn/ver/4/trunk/library/eden/paypal/transaction.php
+END

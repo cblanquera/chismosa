@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/eden/!svn/ver/39/trunk/library/eden/foursquare
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/4/trunk/library/eden/foursquare/error.php
+END
+pages.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/27/trunk/library/eden/foursquare/pages.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/27/trunk/library/eden/foursquare/settings.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/27/trunk/library/eden/foursquare/users.php
+END
+pageupdates.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eden/!svn/ver/27/trunk/library/eden/foursquare/pageupdates.php
+END
+specials.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/27/trunk/library/eden/foursquare/specials.php
+END
+events.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/4/trunk/library/eden/foursquare/events.php
+END
+updates.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/eden/!svn/ver/27/trunk/library/eden/foursquare/updates.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/38/trunk/library/eden/foursquare/base.php
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/27/trunk/library/eden/foursquare/list.php
+END
+photos.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/4/trunk/library/eden/foursquare/photos.php
+END
+tips.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/27/trunk/library/eden/foursquare/tips.php
+END
+campaign.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/27/trunk/library/eden/foursquare/campaign.php
+END
+oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/19/trunk/library/eden/foursquare/oauth.php
+END
+venue.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/39/trunk/library/eden/foursquare/venue.php
+END
+venuegroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eden/!svn/ver/27/trunk/library/eden/foursquare/venuegroups.php
+END
+checkins.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/27/trunk/library/eden/foursquare/checkins.php
+END

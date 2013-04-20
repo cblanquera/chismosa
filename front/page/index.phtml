@@ -1,0 +1,23 @@
+<form method="post" class="main-form">
+	<label><img src="/assets/images/logo.png" /></label>
+    <input type="text" name="message" placeholder="Chismis Anonymously" />
+</form>
+
+<?php if(isset($rows)): ?>
+<div class="container">
+<table class="table table-striped">
+	<?php foreach($rows as $row): ?>
+    <tr>
+    	<td>
+        	<img width="50" src="<?php echo $row['user_image']; ?>" />
+            <br /><em><?php echo $row['user_clue']; ?></em>
+        </td>
+    	<td>
+			<?php echo strip_tags($row['post_detail']); ?><br />
+            <em><?php echo front()->since(strtotime($row['post_created'])); ?></em>
+        </td>
+    </tr>
+	<?php endforeach; ?>
+</table>
+</div>
+<?php endif; ?>

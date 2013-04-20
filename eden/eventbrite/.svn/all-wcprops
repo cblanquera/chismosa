@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/eden/!svn/ver/4/trunk/library/eden/eventbrite
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/error.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/base.php
+END
+payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/payment.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/user.php
+END
+oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/oauth.php
+END
+organizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/organizer.php
+END
+event.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/event.php
+END
+venue.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/venue.php
+END
+ticket.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/ticket.php
+END
+discount.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/eden/!svn/ver/4/trunk/library/eden/eventbrite/discount.php
+END

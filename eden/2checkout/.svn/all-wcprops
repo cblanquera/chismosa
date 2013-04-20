@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/eden/!svn/ver/109/trunk/library/eden/2checkout
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/107/trunk/library/eden/2checkout/error.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/109/trunk/library/eden/2checkout/base.php
+END
+purchase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/108/trunk/library/eden/2checkout/purchase.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/eden/!svn/ver/107/trunk/library/eden/2checkout/create.php
+END
+sales.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/109/trunk/library/eden/2checkout/sales.php
+END

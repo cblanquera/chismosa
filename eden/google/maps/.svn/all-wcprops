@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/eden/!svn/ver/29/trunk/library/eden/google/maps
+END
+distance.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eden/!svn/ver/29/trunk/library/eden/google/maps/distance.php
+END
+geocoding.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/29/trunk/library/eden/google/maps/geocoding.php
+END
+direction.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/29/trunk/library/eden/google/maps/direction.php
+END
+image.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/eden/!svn/ver/29/trunk/library/eden/google/maps/image.php
+END
+elevation.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/29/trunk/library/eden/google/maps/elevation.php
+END

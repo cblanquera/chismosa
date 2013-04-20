@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html class="<?php print $class; ?>">
+	
+<head>
+	<title><?php print $title; ?></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<?php if(isset($meta) && is_array($meta)): ?>
+    <?php foreach($meta as $name => $content): ?>
+    <meta name="<?php print $name; ?>" content="<?php print $content; ?>" />
+    <?php endforeach; ?>
+    <?php endif; ?>
+	
+    <link type="text/css" rel="stylesheet" href="/assets/styles/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="/assets/styles/responsive.css" />
+    <link type="text/css" rel="stylesheet" href="/assets/styles/front.css" />
+</head>
+
+<body>
+	<div class="page">
+		<div class="head"><?php echo $head; ?></div>
+		<div class="body"><?php echo $body; ?></div>
+		<div class="foot"><?php echo $foot; ?></div>
+        
+		<script type="text/javascript" src="/assets/scripts/jquery.js"></script>
+        <script type="text/javascript" src="/assets/scripts/bootstrap.js"></script>
+        <script type="text/javascript" src="/assets/scripts/front.js"></script>
+    </div>
+</body>
+</html>

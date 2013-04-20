@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/eden/!svn/ver/4/trunk/library/eden/xend
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eden/!svn/ver/4/trunk/library/eden/xend/error.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/eden/!svn/ver/4/trunk/library/eden/xend/base.php
+END
+rate.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/eden/!svn/ver/4/trunk/library/eden/xend/rate.php
+END
+tracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eden/!svn/ver/4/trunk/library/eden/xend/tracking.php
+END
+shipment.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eden/!svn/ver/4/trunk/library/eden/xend/shipment.php
+END
+booking.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/eden/!svn/ver/4/trunk/library/eden/xend/booking.php
+END

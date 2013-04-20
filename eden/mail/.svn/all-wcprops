@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/eden/!svn/ver/114/trunk/library/eden/mail
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eden/!svn/ver/4/trunk/library/eden/mail/error.php
+END
+pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eden/!svn/ver/83/trunk/library/eden/mail/pop3.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eden/!svn/ver/111/trunk/library/eden/mail/smtp.php
+END
+imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eden/!svn/ver/114/trunk/library/eden/mail/imap.php
+END

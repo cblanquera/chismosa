@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/eden/!svn/ver/88/trunk/library/eden/oauth2
+END
+desktop.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/eden/!svn/ver/18/trunk/library/eden/oauth2/desktop.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/eden/!svn/ver/4/trunk/library/eden/oauth2/error.php
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/eden/!svn/ver/88/trunk/library/eden/oauth2/client.php
+END
+abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/88/trunk/library/eden/oauth2/abstract.php
+END
+server.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/eden/!svn/ver/59/trunk/library/eden/oauth2/server.php
+END

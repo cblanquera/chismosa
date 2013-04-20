@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/eden/!svn/ver/28/trunk/library/eden/asiapay
+END
+directclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eden/!svn/ver/28/trunk/library/eden/asiapay/directclient.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eden/!svn/ver/4/trunk/library/eden/asiapay/error.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eden/!svn/ver/28/trunk/library/eden/asiapay/base.php
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/eden/!svn/ver/28/trunk/library/eden/asiapay/client.php
+END

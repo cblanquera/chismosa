@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/eden/!svn/ver/82/trunk/library/eden/amazon/sqs
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/74/trunk/library/eden/amazon/sqs/base.php
+END
+batch.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/74/trunk/library/eden/amazon/sqs/batch.php
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/eden/!svn/ver/82/trunk/library/eden/amazon/sqs/message.php
+END
+queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/eden/!svn/ver/82/trunk/library/eden/amazon/sqs/queue.php
+END
+permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/80/trunk/library/eden/amazon/sqs/permission.php
+END

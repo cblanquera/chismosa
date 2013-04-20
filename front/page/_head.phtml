@@ -1,0 +1,20 @@
+<header>
+    <div class="navbar">
+		<div class="navbar-inner">
+        	<a class="brand" href="#"><img width="160" src="/assets/images/logo.png" /></a>
+            <?php if(!isset($user)): ?>
+            <div class="right"><a href="/login">
+            <img class="login" src="/assets/images/facebook.png" /></a></div>
+            <?php else: ?>
+            <div class="right">
+                <img width="40" src="<?php echo $user['user_image']; ?>" />
+                <span><?php echo $user['user_clue']; ?></span>
+                (<a href="/logout">Logout</a>)
+            </div>
+            <?php endif; ?>
+        	<ul class="nav">
+        	    <li class="active"><a href="#">Home</a></li>
+        	</ul>
+      	</div>
+    </div>
+</header>

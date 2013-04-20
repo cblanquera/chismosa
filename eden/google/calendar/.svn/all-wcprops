@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/eden/!svn/ver/29/trunk/library/eden/google/calendar
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eden/!svn/ver/29/trunk/library/eden/google/calendar/list.php
+END
+calendars.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eden/!svn/ver/29/trunk/library/eden/google/calendar/calendars.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/29/trunk/library/eden/google/calendar/acl.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/eden/!svn/ver/4/trunk/library/eden/google/calendar/settings.php
+END
+event.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/29/trunk/library/eden/google/calendar/event.php
+END
+freebusy.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eden/!svn/ver/29/trunk/library/eden/google/calendar/freebusy.php
+END

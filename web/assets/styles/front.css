@@ -1,0 +1,143 @@
+/* FONTS 
+-------------------------------------------------------------------------------*/
+@font-face {	font-family: 'Din Display Pro';
+	src: url('/assets/fonts/din-display-light.eot');
+	src: url('/assets/fonts/din-display-light.eot?#iefix') format('embedded-opentype'),
+		 url('/assets/fonts/din-display-light.woff') format('woff'),
+		 url('/assets/fonts/din-display-light.ttf') format('truetype');
+	font-weight:300;
+	font-style:normal;
+}
+
+@font-face {
+	font-family: 'Din Display Pro';
+	src: url('/assets/fonts/din-display-regular.eot');
+	src: url('/assets/fonts/din-display-regular.eot?#iefix') format('embedded-opentype'),
+		 url('/assets/fonts/din-display-regular.woff') format('woff'),
+		 url('/assets/fonts/din-display-regular.ttf') format('truetype');
+	font-weight:400;
+	font-style:normal;
+}
+
+@font-face {
+	font-family: 'Din Display Pro';
+	src: url('/assets/fonts/din-display-thin.eot');
+	src: url('/assets/fonts/din-display-thin.eot?#iefix') format('embedded-opentype'),
+		 url('/assets/fonts/din-display-thin.woff') format('woff'),
+		 url('/assets/fonts/din-display-thin.ttf') format('truetype');
+	font-weight:200;
+	font-style:normal;
+}
+
+
+@font-face{
+	font-family: 'Clouseau Slab';
+	src: url('/assets/fonts/clouseau_slab-thin-webfont.eot');
+	src: url('/assets/fonts/clouseau_slab-thin-webfont.eot?iefix') format("embedded-opentype"),
+		 url('/assets/fonts/clouseau_slab-thin-webfont.woff') format("woff"),
+		 url('/assets/fonts/clouseau_slab-thin-webfont.ttf') format("truetype"),
+		 url('/assets/fonts/clouseau_slab-thin-webfont.svg#ClouseauSlabThin') format("svg");
+		 font-weight:200;
+		 font-style:normal;
+}
+
+@font-face{
+	font-family: 'Clouseau Slab';
+	src: url('/assets/fonts/clouseau_slab-light-webfont.eot');
+	src: url('/assets/fonts/clouseau_slab-light-webfont.eot?iefix') format("embedded-opentype"),
+		 url('/assets/fonts/clouseau_slab-light-webfont.woff') format("woff"),
+		 url('/assets/fonts/clouseau_slab-light-webfont.ttf') format("truetype"),
+		 url('/assets/fonts/clouseau_slab-light-webfont.svg#ClouseauSlabLight') format("svg");
+		 font-weight:300;
+		 font-style:normal;
+}
+
+@font-face{
+	font-family: 'Clouseau Slab';
+	src: url('/assets/fonts/clouseau_slab-regular-webfont.eot');
+	src: url('/assets/fonts/clouseau_slab-regular-webfont.eot?iefix') format("embedded-opentype"),
+		 url('/assets/fonts/clouseau_slab-regular-webfont.woff') format("woff"),
+		 url('/assets/fonts/clouseau_slab-regular-webfont.ttf') format("truetype"),
+		 url('/assets/fonts/clouseau_slab-regular-webfont.svg#ClouseauSlabRegular') format("svg");
+		 font-weight:400;
+		 font-style:normal;
+}
+
+
+@font-face{
+	font-family: 'Clouseau Slab';
+	src: url('/assets/fonts/clouseau_slab-medium-webfont.eot');
+	src: url('/assets/fonts/clouseau_slab-medium-webfont.eot?iefix') format("embedded-opentype"),
+		 url('/assets/fonts/clouseau_slab-medium-webfont.woff') format("woff"),
+		 url('/assets/fonts/clouseau_slab-medium-webfont.ttf') format("truetype"),
+		 url('/assets/fonts/clouseau_slab-medium-webfont.svg#ClouseauSlabMedium') format("svg");
+		 font-weight:500;
+		 font-style:normal;
+}
+
+@font-face{
+	font-family: 'Clouseau Slab';
+	src: url('/assets/fonts/clouseau_slab-black-webfont.eot');
+	src: url('/assets/fonts/clouseau_slab-black-webfont.eot?iefix') format("embedded-opentype"),
+		 url('/assets/fonts/clouseau_slab-black-webfont.woff') format("woff"),
+		 url('/assets/fonts/clouseau_slab-black-webfont.ttf') format("truetype"),
+		 url('/assets/fonts/clouseau_slab-black-webfont.svg#ClouseauSlabLight') format("svg");
+		 font-weight:600;
+		 font-style:normal;
+}
+
+@font-face {
+    font-family: 'American Typewriter Std';
+    src: url('/assets/fonts/americantypewriterstd-med-webfont.eot');
+    src: url('/assets/fonts/americantypewriterstd-med-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/americantypewriterstd-med-webfont.woff') format('woff'),
+         url('/assets/fonts/americantypewriterstd-med-webfont.ttf') format('truetype'),
+         url('/assets/fonts/americantypewriterstd-med-webfont.svg#american_typewriter_std_medRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Avenir Lt Std';
+    src: url('/assets/fonts/avenirltstd-black-webfont.eot');
+    src: url('/assets/fonts/avenirltstd-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/avenirltstd-black-webfont.woff') format('woff'),
+         url('/assets/fonts/avenirltstd-black-webfont.ttf') format('truetype'),
+         url('/assets/fonts/avenirltstd-black-webfont.svg#avenir_lt_std_65_mediumbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* HTML FIXES 
+-------------------------------------------------------------------------------*/
+html, body { 
+	font-family: 'Clouseau Slab', "Helvetica Neue", Helvetica, Arial; 
+	font-size: 13px; 
+	font-weight: 400;
+	height: 25000px; 
+	width: 100%;
+}
+
+a, a:hover { text-decoration: none; }
+
+h1, h2, h3, h4, h5, h6 { 
+	font-family: "Din Display Pro", "Helvetica Neue", Helvetica, Arial; 
+	font-weight: 200; 
+	margin: 0;
+}
+
+input, button { font-family: 'Clouseau Slab', "Helvetica Neue", Helvetica, Arial; }
+
+p { line-height: 22px; }
+
+footer { border-top: 1px solid #CCC; padding-top: 10px; margin-top: 10px; text-align: center; }
+
+.navbar .brand { padding: 0 10px; }
+
+.main-form { text-align: center; }
+.main-form input { width: 300px; font-size: 20px; padding: 10px 20px; border-radius: 20px; }
+.navbar .right { float: right; }
+
+.navbar .right .login { margin-top: 8px; }

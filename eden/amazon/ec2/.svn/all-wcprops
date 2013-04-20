@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/eden/!svn/ver/82/trunk/library/eden/amazon/ec2
+END
+routetables.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/routetables.php
+END
+windows.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/windows.php
+END
+spotinstances.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/spotinstances.php
+END
+tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/tags.php
+END
+ami.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/eden/!svn/ver/69/trunk/library/eden/amazon/ec2/ami.php
+END
+vpnconnections.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eden/!svn/ver/49/trunk/library/eden/amazon/ec2/vpnconnections.php
+END
+securitygroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/securitygroups.php
+END
+placementgroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/placementgroups.php
+END
+networkacl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/networkacl.php
+END
+networkinterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/networkinterface.php
+END
+internetgateway.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/internetgateway.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/82/trunk/library/eden/amazon/ec2/base.php
+END
+elasticbookstore.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/elasticbookstore.php
+END
+general.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/general.php
+END
+vmimport.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/vmimport.php
+END
+dhcp.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/dhcp.php
+END
+elasticipaddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/elasticipaddress.php
+END
+customergateway.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/customergateway.php
+END
+subnets.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/eden/!svn/ver/50/trunk/library/eden/amazon/ec2/subnets.php
+END
+vmexport.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/vmexport.php
+END
+monitoring.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/monitoring.php
+END
+virtualprivategateways.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eden/!svn/ver/48/trunk/library/eden/amazon/ec2/virtualprivategateways.php
+END
+reservedinstances.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/reservedinstances.php
+END
+keypairs.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/keypairs.php
+END
+instances.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eden/!svn/ver/65/trunk/library/eden/amazon/ec2/instances.php
+END
+devpay.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/devpay.php
+END
+vpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2/vpc.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/eden/!svn/ver/82/trunk/library/eden/amazon
+END
+ec2.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eden/!svn/ver/46/trunk/library/eden/amazon/ec2.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eden/!svn/ver/74/trunk/library/eden/amazon/error.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/eden/!svn/ver/22/trunk/library/eden/amazon/base.php
+END
+ecs.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eden/!svn/ver/4/trunk/library/eden/amazon/ecs.php
+END
+ses.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eden/!svn/ver/22/trunk/library/eden/amazon/ses.php
+END
+sns.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eden/!svn/ver/70/trunk/library/eden/amazon/sns.php
+END
+s3.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eden/!svn/ver/78/trunk/library/eden/amazon/s3.php
+END
+sqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eden/!svn/ver/79/trunk/library/eden/amazon/sqs.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/eden/!svn/ver/29/trunk/library/eden/google/contacts
+END
+data.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eden/!svn/ver/9/trunk/library/eden/google/contacts/data.php
+END
+photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eden/!svn/ver/9/trunk/library/eden/google/contacts/photo.php
+END
+groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/9/trunk/library/eden/google/contacts/groups.php
+END
+batch.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eden/!svn/ver/29/trunk/library/eden/google/contacts/batch.php
+END
